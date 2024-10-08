@@ -1,1 +1,0 @@
-OCR, which stands for Optical Character Recognition, is a technology used to recognize text within a digital image. It can recognize text in scanned documents and make it accessible in electronic versions. OCR software can convert images into physical text.
