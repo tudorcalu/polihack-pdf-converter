@@ -1,1 +1,1 @@
-"# polihack-pdf-converter" 
+My part of the project was to implement API Keys and prompts for different AI language models in order to generate information about different subjects that could be presented in a collage course, based on some input given by an image recognition algorithm. I also implemented a .txt to .pdf converter in Python for this project.
